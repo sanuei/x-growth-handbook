@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:3b607095-9173-481b-8b00-8e4974a32656" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_png" />
+  </head>
+  <docTitle>
+    <text>X（推特）运营增长完全手册</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>X（推特）运营增长完全手册</text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>X（推特）运营增长完全手册</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#x推特运营增长完全手册" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>第一章：认知篇 · 理解 X 平台的底层逻辑</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#第一章认知篇-理解-x-平台的底层逻辑" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>第二章：定位篇 · 在广场上，你要站哪里说话</text>
+      </navLabel>
+      <content src="text/ch003.xhtml#第二章定位篇-在广场上你要站哪里说话" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>第三章：内容篇 · 搭建你的发帖体系</text>
+      </navLabel>
+      <content src="text/ch004.xhtml#第三章内容篇-搭建你的发帖体系" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>第四章：工具篇 · 用数据和工具放大你的效率</text>
+      </navLabel>
+      <content src="text/ch005.xhtml#第四章工具篇-用数据和工具放大你的效率" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>第五章：增长篇 · 从 0 到第一批真实粉丝</text>
+      </navLabel>
+      <content src="text/ch006.xhtml#第五章增长篇-从-0-到第一批真实粉丝" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>第六章：变现篇 · 流量的商业转化</text>
+      </navLabel>
+      <content src="text/ch007.xhtml#第六章变现篇-流量的商业转化" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>第七章：账号安全篇 · 保护你辛苦建立的账号资产</text>
+      </navLabel>
+      <content src="text/ch008.xhtml#第七章账号安全篇-保护你辛苦建立的账号资产" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>第八章：心态篇 · 让这件事变得可以持续</text>
+      </navLabel>
+      <content src="text/ch009.xhtml#第八章心态篇-让这件事变得可以持续" />
+    </navPoint>
+  </navMap>
+</ncx>
